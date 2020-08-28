@@ -1,0 +1,17 @@
+{
+    "name": "900lbs.EnhancedGUA.Editor",
+    "references": [
+        "GUID:60e8355b08301d34bb7f70966a416b21"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

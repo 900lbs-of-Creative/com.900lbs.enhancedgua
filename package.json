@@ -1,0 +1,23 @@
+{
+  "name": "com.900lbs.enhancedgua",
+  "version": "1.0.0",
+  "displayName": "Enhanced Google Universal Analytics",
+  "description": "A set of components and utilities to more easily dispatch events through Google Universal Analytics.",
+  "unity": "2019.3",
+    "author": {
+        "name": "Daniel Colina",
+        "email": "dcolina@900lbs.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/dcolina900lbs/com.900lbs.enhancedgua.git"
+    },
+    "samples": [
+        {
+            "displayName": "UI Sample",
+            "description": "Examples scene of UI analytics.",
+            "path": "Samples~/Core Samples"
+        }
+    ],
+  "hideInEditor": false
+}
